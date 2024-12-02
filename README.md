@@ -19,9 +19,9 @@ y escapar con vida?
 
 # Tu aventura te espera.
 
-![titulo](https://github.com/obj1-unahur-2024s1/TPGameIntegrador-escuadronwollok/assets/132846673/2727bd1d-ae91-4f67-92b9-5ee2f58b05d5)
+![miniatura1](https://github.com/user-attachments/assets/6cd63987-93d0-44fc-9b15-139f897f20b8)
 
-![2024-07-03 08_43_05-Maze of Crete](https://github.com/obj1-unahur-2024s1/TPGameIntegrador-escuadronwollok/assets/132846673/0aa65765-78d7-4df7-aba9-ba956b52c821)
+![miniatura2](https://github.com/user-attachments/assets/ada4d5c5-894e-4ce2-8207-5ab5b9f24da1)
 
 ## Reglas de Juego / Instrucciones
 
